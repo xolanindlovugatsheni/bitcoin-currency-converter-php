@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE)
-[![Build Status][ico-travis]][link-travis]
+
 [![Test Coverage][ico-coverage]][link-coverage]
 [![Maintainability][ico-maintainability]][link-maintainability]
 [![Total Downloads][ico-downloads]][link-downloads]
