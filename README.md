@@ -6,6 +6,7 @@
 [![Test Coverage][ico-coverage]][link-coverage]
 [![Maintainability][ico-maintainability]][link-maintainability]
 [![Total Downloads][ico-downloads]][link-downloads]
+[![Build Status](https://travis-ci.org/xolanindlovugatsheni/bitcoin-currency-converter-php.svg?branch=master)](https://travis-ci.org/xolanindlovugatsheni/bitcoin-currency-converter-php)
 
 This library helps developers that need to easily convert bitcoin to fiat currency(ISO 4217) or to another cryptocurrency and vice versa from your exchange rates provider of choice.
 
